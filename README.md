@@ -3,7 +3,7 @@
 ᙁα𝘵 is an organisational system to catalogue web resources, and anticipate a proper arrangement in line with their subject.
 
 <sub>｡</sub>╭  
-__.__ | ⍺𝑖𝑚  
+__.__ | `⍺𝑖𝑚`  
 <sup>｡</sup>╯  
 
 - reduce the complexity from duplication, and highlight returns to topics/resources
