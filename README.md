@@ -1,4 +1,25 @@
-# nat
+- - -
+
+ᙁα𝘵 is an organisational system to catalogue web resources, and anticipate a proper arrangement in line with their subject.
+
+<sub>｡</sub>╭    
+__.__ | `⍺𝑖𝑚`  
+<sup>｡</sup>╯  
+
+- reduce the complexity from duplication, and highlight returns to topics/resources
+- be a 'sink' to relieve the strain on my computer/myself of the constant buildup of untriaged materials
+  - share unprocessed items across devices
+  - (_heuristic triage_) suggested views of unsorted material based on proximity to existing collection
+
+- - -
+
+This project is developed around the idea of nats, and also of permutations 
+
+- through an alphabetisation (or _"lexicographically ordering permutation"_ if you prefer), the nat morphed into the ant :thought_balloon:
+
+- - -
+
+## _What is a nat?_
 
 > The natural unit of information (symbol _nat_), is a unit of information or entropy, based on natural logarithms and powers of _e_, rather than the powers of 2 and base 2 logarithms, which define the bit. This unit is also known by its unit symbol, the nat. The nat is the natural unit for information entropy. Physical systems of natural units that normalize Boltzmann's constant to 1 are effectively measuring thermodynamic entropy in nats.
 
@@ -32,18 +53,6 @@ it is implicitly giving a number measured in nats.
 |:ant::ant::ant:|:ant: ... :ant: ... :ant:|:ant: : : :ant:<br/> `...` :link: |
 
 <sub>__`An alphabetising colony`__ Stigmergy is a powerful tool to analyse processes that involve agents who learn. It can be used to model biological systems, both at their conscious and evolutionary levels of knowledge flow (e.g. [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) models are used to profile and predict biological '_SLiM_' sequence motifs<sup class="ref-num" data-refnum="1">[1](#ref1)</sup>), but it can motivate a rethinking of our own information retrieval processes. In this illustration: a [self-conjugate partition](http://mathworld.wolfram.com/Self-ConjugatePartition.html) (from a consideration of chain/antichains from permutation-partition pairs<sup class="ref-num" data-refnum="2">[2](#ref2)</sup>).</sub>
-
-ᙁα𝘵 is an organisational system to catalogue web resources, and anticipate a proper arrangement in line with their subject.
-
-<sub>｡</sub>╭    
-__.__ | `⍺𝑖𝑚`  
-<sup>｡</sup>╯  
-
-- reduce the complexity from duplication, and highlight returns to topics/resources
-- be a 'sink' to relieve the strain on my computer of untriaged materials
-  - share unprocessed items across devices
-  - (_heuristic triage_) suggested views of unsorted material based on proximity to existing collection
-
 
 - - -
 
