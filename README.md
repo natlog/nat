@@ -2,7 +2,7 @@
 
 ᙁα𝘵 is an organisational system to catalogue web resources, and anticipate a proper arrangement in line with their subject.
 
-<sub>｡</sub>`╭  `
+<sub>｡</sub>`╭  `  
 __.__ `|` `⍺𝑖𝑚`  
 <sup>｡</sup>`╯`  
 
