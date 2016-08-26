@@ -50,11 +50,28 @@ it is implicitly giving a number measured in nats.
 |:ant:<br/>:ant: :: :ant:|:ant: :: :ant:<br/>:ant:|:ant:<br/>:ant: :: :ant:|
 |---|---|---|
 |:ant::ant::ant:|`—` `—` `—`—:ant:<br/>` `︙—⋯—:ant:‹<br/>`—` `—` `—`—:ant:|:ant::ant::ant:|
-|:ant::ant::ant:|:ant: ... :ant: ... :ant:|:ant: : : :ant:<br/> `...` :link: |
+|:ant::ant::ant:|<sub><sub><sub>:ant:</sub></sub></sub> ⋰ <sup>:ant:</sup> ⋱ <sub><sub><sub>:ant:</sub></sub></sub>|:ant: : : :ant:<br/> `...` :link: |
 
 <sub>__`An alphabetising colony`__ Stigmergy is a powerful tool to analyse processes that involve agents who learn. It can be used to model biological systems, both at their conscious and evolutionary levels of knowledge flow (e.g. [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) models are used to profile and predict biological '_SLiM_' sequence motifs<sup class="ref-num" data-refnum="1">[1](#ref1)</sup>), but it can motivate a rethinking of our own information retrieval processes. In this illustration: a [self-conjugate partition](http://mathworld.wolfram.com/Self-ConjugatePartition.html) (from a consideration of chain/antichains from permutation-partition pairs<sup class="ref-num" data-refnum="2">[2](#ref2)</sup>).</sub>
 
 - - -
+
+### See also
+
+- An ongoing project I have, [permut.co](http://permut.co/), producing a research/knowledge output less tied to 'finalised' documents and more focussed on flow of thought and connectivity.
+  - Motivated following reading about Pascal and the _Pensées_. See,
+    - ∷ [About](http://permut.co/about/)
+    - ∷ [Permutation Graphs And Copermutations](http://permut.co/Permutation-graphs-and-copermutations/)
+    - ∷ [Meta: Website Design Note](http://permut.co/Meta-Website-design-note/)
+    - ∷ [Memory:latency Isomorphism](http://permut.co/about/)  
+       <sub>↪ _contains a note on [Pascal's wager](https://en.wikipedia.org/wiki/Pascal%27s_Wager)<sup class="footnote-ref">†</sup> and information theory_<sub>
+  - All 
+
+<sup class="footnote-target">†</sup> [the first formal use of decision theory]
+
+- - -
+
+### Resources
 
 <sup id="ref1">1</sup> Fang _et al._ (2016) [Identifying Protein Short Linear Motifs by Position-Specific Scoring Matrix](http://link.springer.com/chapter/10.1007/978-3-319-41009-8_22). In [Advances in Swarm Intelligence](http://link.springer.com/book/10.1007/978-3-319-41009-8) (_7th International Conference in Swarm Intelligence_ (pp. 206-214), Springer.
 
